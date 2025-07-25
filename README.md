@@ -1,1 +1,1 @@
-# multi-homo
+# multigroup-homophily
